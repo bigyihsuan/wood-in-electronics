@@ -1,7 +1,7 @@
 {
 	"name":"wood-in-electronics",
 	"author":"bigyihsuan",
-	"version":"1.0.1",
+	"version":"1.0.2",
 	"title":"Wood in Electronics",
 	"description":"Allows the crafting of wood planks in electronic assembers in Bob's Mods.",
 	"dependencies": ["base >= 0.14", "bobassembly >= 0.14.0", "bobplates >= 0.14.0"],
