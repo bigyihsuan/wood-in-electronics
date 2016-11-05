@@ -20,6 +20,7 @@ data:extend({
 		{
 		  {"raw-wood", 1},
 		},
+		energy_requred = 1,
 		result = "resin",
 		result_count = 1
 	}
