@@ -4,6 +4,12 @@
 	"version":"1.0.2",
 	"title":"Wood in Electronics",
 	"description":"Allows the crafting of wood planks in electronic assembers in Bob's Mods.",
+<<<<<<< HEAD
 	"dependencies": ["base >= 0.15", "bobassembly >= 0.15.0", "bobplates >= 0.15.0"],
 	"factorio_version": "0.15"
 }
+=======
+	"dependencies": ["base >= 0.14", "bobassembly >= 0.14.0", "bobplates >= 0.14.0"],
+	"factorio_version": "0.14"
+}
+>>>>>>> origin/master
